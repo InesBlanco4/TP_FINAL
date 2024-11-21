@@ -1,0 +1,64 @@
+Las cartas que dicen "Todos" se refiere a que todos los palos valen por igual.
+
+El valor de las cartas empezando desde la más fuerte hacia la más débil es el siguiente.
+
+1 de Espada (Carta más fuerte)
+1 de Basto
+7 de Espada
+7 de Oro
+3 Todos
+2 Todos
+1 Copa y Oro
+12 Todos
+11 Todos
+10 Todos
+7 Copa y Basto
+6 Todos
+5 Todos
+4 Todos
+
+Como muchos juegos de cartas se comienza mezclando el mazo, en un juego de a dos personas el rival será quién haga un "corte" en el mazo separandolo en 2 o más secciones. Ni en la mezcla ni en el corte, ni en la repartición, ningún jugador podrá ver la cara de la carta y deberán colocarse todas de revés.En un juego de a 4 o 6 jugadores quién cortará el mazo deberá ser el jugador ubicado a la izquierda de quien mezcló. Luego el jugador que mezcló será el encargado de repartir las cartas, comenzando de a una carta por cada jugador en el caso de 2 jugadores se reparte una carta para el rival y una carta para quien está repartiendo, en el caso de 4 o 6 jugadores se reparte una carta para cada jugador comenzando a repartir formando una ronda y comenzando desde el jugador ubicado a la derecha hasta que cada jugador tenga 3 cartas.
+Quien comienza el juego se lo llama Mano, en el caso de 4 o 6 jugadores comienza el jugador que está a la derecha de quien repartió las cartas, en el caso de una partida de 2 jugadores comenzará el jugador que no repartió las cartas y contará con algunos beneficios que se detallarán a continuación.
+Al comienzo cada jugador tira su primer carta en el mismo orden en que se repartieron, cuando todos los jugadores hayan tirado su primer carta se finaliza la primer mano.
+
+El jugador que tira en la mesa la carta más fuerte será el que gane la primer mano y será el que comience tirando la segunda carta en la segunda mano, en caso que haya un empate el jugador que es mano *(jugador ubicado a la derecha de quien repartió las cartas en partidas de 4 o 6 jugadores, y jugador que no repartió las cartas en el caso de partidas de 2 jugadores) será el jugador que comience en el la segunda mano.
+La segunda mano se realiza igual que la primera, cada jugador, por turno deberá colocar en la mesa su segunda carta, apoyada sobre la carta jugada en la primer mano pero dejando que se visualice la primera.
+
+Si el equipo o jugador que ganó la primer mano con la carta más fuerte y gana también en la segunda mano siendo que todos los jugadores ya jugaron su segunda carta finalizará la ronda y ganará la ronda el jugador o equipo que haya ganado la primer y segunda mano.
+En el caso que empaten las cartas más fuertes en la primer mano, y en la segunda mano un jugador tira una carta más fuerte que las demás cartas finaliza la ronda, y la gana el jugador o equipo que haya tirado la carta más fuerte en la segunda mano.
+En el caso que empaten las cartas más fuertes en la primer mano, y en la segunda mano tambien haya un empate o que en la primer mano haya ganado un jugador y que en la segunda mano haya ganado el otro jugador o equipo la ronda se definirá en la tercer mano en la que los jugadores jugarán su tercer carta.
+Los jugadores juegan la tecer carta por orden como las anteriores, quién juegue la carta más fuerte en la tercer mano será el ganador de la ronda. En caso de empatar la tercer mano el ganador de la rondá será el jugador que es mano (*).
+Y ganará un punto en el caso que no se haya aceptado un truco, re truco o vale cuatro.
+
+En el caso que se haya aceptado el Truco el jugador o equipo ganador de la ronda ganará 2 puntos.
+En el caso que se haya aceptado el Re Truco el jugador o equipo ganador de la ronda ganará 3 puntos.
+En el caso que se haya aceptado el Vale Cuatro el jugador o equipo ganador de la ronda ganará 4 puntos.
+Al finalizar la ronda se anotarán los puntos y se deberán colocar en el mazo todas las cartas ordenadas de reves se encargará de organizar esto el jugador que repartió las cartas y deberá entregar el mazo ordenado al jugador ubicado a su derecha en el caso de 4 o 6 jugadores o al rival en el caso de 2 jugadores. Este otro jugador será quien mezclará y repartirá las cartas para la siguiente mano, como lo hizo el jugador anterior.
+
+En cualquier momento el jugador antes de tirar su carta podrá cantar Truco una vez que dice Truco, el jugador oponente o cualquier jugador del equipo rival podrá decir quiero como símbolo de aceptar el Truco, decir No quiero si no acepta el truco o cantar el Re Truco.
+En el caso que se haya aceptado el Truco, el jugador oponente o equipo rival será quien podrá cantar Re Truco en ese momento o antes de tirar una siguiente carta luego que aceptaron el Truco o en otro momento de las jugadas.
+En el caso que se haya aceptado el Re Truco, el jugador oponente o equipo rival será quien podra cantar Vale Cuatro.
+
+Puntajes
+En el caso que NO se haya cantado el Truco, quién gana la ronda se llevará en total 1 punto.
+En el caso que se haya aceptado el Truco, quién gana la ronda se llevará en total 2 puntos.
+En el caso que se haya aceptado el Re Truco, quién gana la ronda se llevará en total 3 puntos.
+En el caso que se haya aceptado el Vale Cuatro, quien gana la ronda se llevará en total 4 puntos.
+
+En el caso que NO se acepte el Truco, se finalizará la ronda y el equipo o jugador que cantó Truco ganará 1 punto.
+En el caso que NO se acepte el Re Truco, se finalizará la ronda y el equipo o jugador que cantó Re Truco ganará 2 puntos.
+En el caso que NO se acepte el Vale Cuatro, se finalizará la ronda y el equipo o jugador que cantó Vale Cuatro ganará 3 puntos.
+
+El canto del Envido, Real Envido o Falta Envido, deberá hacerse durante la primer mano.
+En una partida de 2 jugadores antes de tirar la primer carta el jugador podrá cantar envido, real envido o falta envido.
+En una partida de 4 o 6 jugadores, los dos jugadores a la izquierda de quien repartió son los que podrán cantar envido, real envido o falta envido.
+
+
+Puntajes del Envido, Real Envido y Falta Envido
+Envido: 2 Puntos
+Real Envido: 3 Puntos
+Falta Envido: Los puntos que restan para ganar la partida al jugador o equipo que tiene más puntos. Por ejemplo si la partida es a 15 puntos y la partida va 3 a 7 puntos, se resta 15 - 7 y el total de puntos para el que gane la falta envido será de 8 puntos.
+
+Cuando un jugador canta Envido, el jugador oponente puede decir quiero, no quiero o cantar envido o real envido o falta envido.
+En el caso que un jugador cante envido y el jugador oponente no quiera el jugador que cantó envido ganará 1 punto.
+En el caso que un jugador cante envido el jugador oponente puede volver a cantar envido y si el jugador que cantó envido por primera vez acepta, el que gane se llevará 4 puntos.
